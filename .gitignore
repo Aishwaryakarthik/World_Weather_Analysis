@@ -1,3 +1,9 @@
+# Adding config.py file.
+Config.py
+
+# Adding Additional files.
+weatherpy.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
